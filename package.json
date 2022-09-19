@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.19.1",
+    "jspdf": "^2.5.1"
+  },
+  "name": "try-pdf",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
